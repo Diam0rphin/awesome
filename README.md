@@ -10,8 +10,10 @@
 ```
 
 ```
+###############  BLUETEAM  ########################################################################################
+
 # Apps
-  Forensics-Tools       https://start.me/p/4Kwjb5/forensics-tools
+ 	Forensics-Tools       https://start.me/p/4Kwjb5/forensics-tools
   NOI                   https://github.com/lencx/Noi?tab=readme-ov-file
   SpyGuard              https://github.com/SpyGuard/SpyGuard
 
@@ -20,6 +22,7 @@
   Sysinternals          https://learn.microsoft.com/de-de/sysinternals/downloads
   Sysmon                https://learn.microsoft.com/de-de/sysinternals/downloads/sysmon
   Sysmon-config         https://github.com/SwiftOnSecurity/sysmon-config?tab=readme-ov-file
+  unattend-generator    https://schneegans.de/windows/unattend-generator
 
 # Linux
   LSMS                  https://github.com/sqall01/LSMS
@@ -35,3 +38,4 @@
   https://ericzimmerman.github.io/#!index.md
   https://book.hacktricks.wiki/en/index.html / https://github.com/b4rdia/HackTricks
 ```
+
