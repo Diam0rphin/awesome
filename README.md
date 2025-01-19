@@ -32,7 +32,11 @@ Player joined the BLueteam                                     01/2024
   Moonbounce            https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468
   Malware-persistence   https://github.com/Karneades/malware-persistence?tab=readme-ov-file#detection
 
-# other awesomedumps
+# Webtools
+  Abuseipdb             https://www.abuseipdb.com
+  VirusTotal            https://www.virustotal.com/gui/home/upload
+
+# AwesomeDumps
   https://ericzimmerman.github.io/#!index.md
   https://book.hacktricks.wiki/en/index.html / https://github.com/b4rdia/HackTricks
 ```
