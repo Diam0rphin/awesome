@@ -10,8 +10,6 @@ Player joined the BLueteam                                     01/2024
 ```
 
 ```
-###############  BLUETEAM  ########################################################################################
-
 # Apps
   Forensics-Tools       https://start.me/p/4Kwjb5/forensics-tools
   NOI                   https://github.com/lencx/Noi?tab=readme-ov-file
